@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">加速度计示例</string>
+    <string name="acce_x">X 轴加速度数据: </string>
+    <string name="acce_y">Y 轴加速度数据: </string>
+    <string name="acce_z">Z 轴加速度数据: </string>
+    <string name="tv_no_sensor">本机没有陀螺仪传感器.</string>
+</resources>

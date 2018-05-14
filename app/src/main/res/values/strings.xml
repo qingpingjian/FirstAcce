@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">First Accelerometer</string>
+    <string name="acce_x">Accelemeter X Value: </string>
+    <string name="acce_y">Accelemeter Y Value: </string>
+    <string name="acce_z">Accelemeter Z Value: </string>
+    <string name="tv_no_sensor">There is no groscope sensor.</string>
+</resources>
